@@ -1,5 +1,5 @@
 package com.example.chatconnect.view.register
-//register
+//register_pkg
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
