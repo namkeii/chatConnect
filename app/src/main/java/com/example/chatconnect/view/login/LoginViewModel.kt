@@ -6,7 +6,7 @@ import androidx.lifecycle.ViewModel
 import com.google.firebase.auth.FirebaseAuth
 import com.google.firebase.auth.ktx.auth
 import com.google.firebase.ktx.Firebase
-
+//login
 class LoginViewModel : ViewModel() {
     private val auth: FirebaseAuth = Firebase.auth
 
