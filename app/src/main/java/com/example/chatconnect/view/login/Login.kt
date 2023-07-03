@@ -74,7 +74,7 @@ fun LoginView(
             Buttons(
                 title = "Login",
                 onClick = { loginViewModel.loginUser(home = home) },
-                backgroundColor = Color.Magenta
+                backgroundColor = Color.Cyan
             )
         }
     }
